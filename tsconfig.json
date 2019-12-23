@@ -1,0 +1,6 @@
+{
+  "extends": "@annium/env-tsconfig-app-react",
+  "include": [
+    "src"
+  ]
+}
